@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ccc6e326.css",
+    "main.js": "/static/js/main.50f354ec.js",
+    "static/media/icon.png": "/static/media/icon.7e816a306e799a2dde10.png",
+    "static/media/title.png": "/static/media/title.9e26da2e60dd8ef1085d.png",
+    "static/media/CartaoSantander.png": "/static/media/CartaoSantander.2df797d640ed246b3548.png",
+    "static/media/CartaoCredcard.png": "/static/media/CartaoCredcard.dd4bd837ec42a931044d.png",
+    "static/media/CartaoMagazine.png": "/static/media/CartaoMagazine.1ed1a35c84a48994fe22.png",
+    "static/media/CartaoHyper.png": "/static/media/CartaoHyper.89fda5c91d989e916b17.png",
+    "static/media/icon.jpeg": "/static/media/icon.8099a4cc9d573b2ec87b.jpeg",
+    "static/media/CartaoItau.png": "/static/media/CartaoItau.3409a434019d1a035d77.png",
+    "static/media/ifood.png": "/static/media/ifood.8b2eef2e64fc52b15de8.png",
+    "static/media/googleplay.png": "/static/media/googleplay.9870c84bc74c0dd82271.png",
+    "static/media/ubereats.png": "/static/media/ubereats.9dd46a264fffecf7cb44.png",
+    "static/media/netflix.png": "/static/media/netflix.3928c124bbaf22955bdf.png",
+    "static/media/uber.png": "/static/media/uber.b6395470f895b8e806d8.png",
+    "index.html": "/index.html",
+    "main.ccc6e326.css.map": "/static/css/main.ccc6e326.css.map",
+    "main.50f354ec.js.map": "/static/js/main.50f354ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccc6e326.css",
+    "static/js/main.50f354ec.js"
+  ]
+}
