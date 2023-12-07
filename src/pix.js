@@ -11,14 +11,6 @@ const client = {
   secret: 'Client_Secret_3d848c65c9bbcc2e23188f37bc24d48a43a26da3'
 };
 
-const cert = fs.readFileSync(
-  path.resolve(__dirname, `../certs/producao-317294-p12.p12`)
-);
-
-const agent = new https.Agent({
-  pfx: cert,
-  passphrase: ''
-});
 
 const credentials = Buffer.from(`${client.id}:${client.secret}`).toString(
   'base64'
