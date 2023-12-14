@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ccc6e326.css",
-    "main.js": "/static/js/main.0fa86a4e.js",
+    "main.js": "/static/js/main.1327ed3b.js",
     "static/media/icon.png": "/static/media/icon.7e816a306e799a2dde10.png",
     "static/media/title.png": "/static/media/title.9e26da2e60dd8ef1085d.png",
     "static/media/CartaoSantander.png": "/static/media/CartaoSantander.2df797d640ed246b3548.png",
@@ -17,10 +17,10 @@
     "static/media/uber.png": "/static/media/uber.b6395470f895b8e806d8.png",
     "index.html": "/index.html",
     "main.ccc6e326.css.map": "/static/css/main.ccc6e326.css.map",
-    "main.0fa86a4e.js.map": "/static/js/main.0fa86a4e.js.map"
+    "main.1327ed3b.js.map": "/static/js/main.1327ed3b.js.map"
   },
   "entrypoints": [
     "static/css/main.ccc6e326.css",
-    "static/js/main.0fa86a4e.js"
+    "static/js/main.1327ed3b.js"
   ]
 }
